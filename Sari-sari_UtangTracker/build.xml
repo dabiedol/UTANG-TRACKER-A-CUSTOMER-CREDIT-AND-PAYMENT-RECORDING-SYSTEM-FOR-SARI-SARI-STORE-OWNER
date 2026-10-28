@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Sari-sari_UtangTracker" default="run" basedir=".">
+    <description>Sari-sari Utang Tracker. NetBeans Run calls the run target.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
